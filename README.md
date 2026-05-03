@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**MSTACLIPSE/MSTACLIPSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im MSTACLIPSE, An Python Programmer
 
-Here are some ideas to get you started:
+I Programm Everythign I Can Imagine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Main Programming Language Is Python But I Can Programm A Bit In Batch Too
+
+Im Sorts Of An Beginner
+
+I Wanna Build Many Of My Projects And Share Them With The World.
+
+FUN FACTS:
+
+My Ethnicity Is Asian
+
+I Learned Programming Because My Friend Started To Prgoramm And Showed Me
+
+My Hobbies Are Judo, Rugby, Basketball, Boxing, Violin And I Can Speak Gerogian And Russian (not that well but it is what it is)
