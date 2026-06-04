@@ -12,8 +12,7 @@ Hello! Im MSTACLIPSE
 ![](https://streak-stats.demolab.com/?user=MSTACLIPSE&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MSTACLIPSE&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=MSTACLIPSE&icon=0&color=5)](https://visitcount.itsvg.in)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
