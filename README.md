@@ -26,7 +26,7 @@
 <b>Editor:</b>     VS Code / Neovim
 <b>Languages:</b>  Python, C, C++, HTML, CSS
 <b>Frameworks:</b> Node.js
-<b>Currently:</b>  [Your Current Project Here]
+<b>Currently:</b>  Cs2 cheat \ Fortnite cheat
 <b>Link:</b>       halo.rip/mst
 <b>Keyboard:</b>   Aula F75
 <b>Mouse:</b>      Razer DeathAdder V2
