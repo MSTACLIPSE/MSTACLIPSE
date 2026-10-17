@@ -1,8 +1,8 @@
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="top" style="padding-right: 20px;">
-<pre>                                                  
-
+    <td valign="top" style="padding-right: 30px;">
+<pre>
+                                               ## 
                                                ## 
                                                ## 
   :#####.  ###  ###     ####:   ##.####   :###.## 
@@ -13,7 +13,7 @@
     .: ##    ####    ##.        ##       ##.  .## 
  #:.  :##   :####:    ##:  .#   ##       ###  ### 
  ########   ##::##    #######   ##       :####### 
- . ####    ###  ###     ####:   ##        :###.##                                             
+ . ####    ###  ###     ####:   ##        :###.##
 </pre>
     </td>
     <td valign="top">
